@@ -17,7 +17,8 @@ RGB LED 모듈은 Red, Green, Blue 세 가지 색상의 LED가 하나의 패키�
 
 ### 핀 연결
 # RGB LED Module Test - NUCLEO-F103RB
-![Uploading F103RB-pin.png…]()
+
+<img width="644" height="586" alt="F103RB-pin" src="https://github.com/user-attachments/assets/cc25972d-9b46-44a8-9ce4-5a7d0ad50600" />
 
 RGB LED 모듈을 STM32F103 NUCLEO 보드에서 PWM을 이용하여 제어하는 프로젝트입니다.
 
