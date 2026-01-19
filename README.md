@@ -16,7 +16,8 @@ RGB LED 모듈은 Red, Green, Blue 세 가지 색상의 LED가 하나의 패키�
 | 점퍼 와이어 | 4 | Female-Female |
 
 ### 핀 연결
-[README.md](https://github.com/user-attachments/files/24699978/README.md)# RGB LED Module Test - NUCLEO-F103RB
+# RGB LED Module Test - NUCLEO-F103RB
+![Uploading F103RB-pin.png…]()
 
 RGB LED 모듈을 STM32F103 NUCLEO 보드에서 PWM을 이용하여 제어하는 프로젝트입니다.
 
